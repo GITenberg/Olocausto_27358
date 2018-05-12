@@ -1,0 +1,29 @@
+_repo: Olocausto_27358
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oriani, Alfredo
+    alias: Banzole, Ottone di
+    birthdate: 1852
+    deathdate: 1909
+    gutenberg_agent_id: '9059'
+    url: http://www.gutenberg.org/2009/agents/9059
+    wikipedia: http://it.wikipedia.org/wiki/Alfredo_Oriani
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2008-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27358'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian fiction -- 20th century'
+title: Olocausto
+url: http://www.gutenberg.org/ebooks/27358
